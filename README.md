@@ -1,6 +1,25 @@
-# Vue 3 + Vite
+# ProFile - Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Personal profile website built with Vue 3 and Vite.
+
+## 🚀 Auto Deploy
+
+This project is automatically deployed to GitHub Pages when pushing to the `main` branch.
+
+**Live Demo**: [https://tranlanh3009.github.io/ProFile/](https://tranlanh3009.github.io/ProFile/)
+
+## 🛠️ Development
+
+```bash
+# Install dependencies
+npm install
+
+# Run dev server
+npm run dev
+
+# Build for production
+npm run build
+```
 
 ## Recommended IDE Setup
 
