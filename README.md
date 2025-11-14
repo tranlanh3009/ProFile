@@ -4,7 +4,7 @@ Personal profile website built with Vue 3 and Vite.
 
 ## 🚀 Auto Deploy
 
-This project is automatically deployed to GitHub Pages when pushing to the `main` branch.
+This project is automatically deployed to GitHub Pages when pushing to the `main` branch via GitHub Actions.
 
 **Live Demo**: [https://tranlanh3009.github.io/ProFile/](https://tranlanh3009.github.io/ProFile/)
 
