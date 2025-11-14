@@ -10,7 +10,7 @@
             </div>
             
             <!-- Navigation Links -->
-            <ul class="nav-links">
+            <ul class="nav-links mt-2">
                 <li><a href="#home" class="nav-link active">
                     <i class="fas fa-home"></i>
                     <span>Home</span>
